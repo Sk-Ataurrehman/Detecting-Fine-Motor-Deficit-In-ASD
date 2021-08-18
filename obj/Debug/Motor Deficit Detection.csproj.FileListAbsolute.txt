@@ -1,0 +1,92 @@
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Motor Deficit Detection.exe.config
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Motor Deficit Detection.exe
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Motor Deficit Detection.pdb
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.csprojAssemblyReference.cache
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Home.resources
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Properties.Resources.resources
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.csproj.GenerateResource.cache
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.exe
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.pdb
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.FTT.resources
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Chat.resources
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Block.resources
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.csproj.ResolveComReference.cache
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Interop.WMPLib.dll
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Interop.WMPLib.dll
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\AxInterop.WMPLib.dll
+D:\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Motor Deficit Detection.exe.config
+D:\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Motor Deficit Detection.exe
+D:\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Motor Deficit Detection.pdb
+D:\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Interop.WMPLib.dll
+D:\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\AxInterop.WMPLib.dll
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.csprojAssemblyReference.cache
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Interop.WMPLib.dll
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\AxInterop.WMPLib.dll
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.csproj.ResolveComReference.cache
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Block.resources
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Chat.resources
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Face.resources
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Home.resources
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.FTT.resources
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Properties.Resources.resources
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.csproj.GenerateResource.cache
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.exe
+D:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.pdb
+G:\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Motor Deficit Detection.exe.config
+G:\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Motor Deficit Detection.exe
+G:\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Motor Deficit Detection.pdb
+G:\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Interop.ShockwaveFlashObjects.dll
+G:\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\Interop.WMPLib.dll
+G:\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\Motor Deficit Detection\Motor Deficit Detection\bin\Debug\AxInterop.WMPLib.dll
+G:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.csprojAssemblyReference.cache
+G:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Interop.ShockwaveFlashObjects.dll
+G:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Interop.WMPLib.dll
+G:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\AxInterop.WMPLib.dll
+G:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.csproj.ResolveComReference.cache
+G:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Block.resources
+G:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Chat.resources
+G:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Home.resources
+G:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.FTT.resources
+G:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Properties.Resources.resources
+G:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.csproj.GenerateResource.cache
+G:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.exe
+G:\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.pdb
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.login.resources
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.report.resources
+C:\Users\siddi\source\repos\Motor Deficit Detection\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.about.resources
+C:\Users\siddi\Desktop\Motor Deficit Detection\bin\Debug\Motor Deficit Detection.exe.config
+C:\Users\siddi\Desktop\Motor Deficit Detection\bin\Debug\Motor Deficit Detection.exe
+C:\Users\siddi\Desktop\Motor Deficit Detection\bin\Debug\Motor Deficit Detection.pdb
+C:\Users\siddi\Desktop\Motor Deficit Detection\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\siddi\Desktop\Motor Deficit Detection\bin\Debug\Interop.WMPLib.dll
+C:\Users\siddi\Desktop\Motor Deficit Detection\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\siddi\Desktop\Motor Deficit Detection\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.csprojAssemblyReference.cache
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Interop.WMPLib.dll
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.csproj.ResolveComReference.cache
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.about.resources
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Block.resources
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Chat.resources
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Home.resources
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.FTT.resources
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.login.resources
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.Properties.Resources.resources
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Motor_Deficit_Detection.report.resources
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.csproj.GenerateResource.cache
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.csproj.CoreCompileInputs.cache
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.exe
+C:\Users\siddi\Desktop\Motor Deficit Detection\obj\Debug\Motor Deficit Detection.pdb
